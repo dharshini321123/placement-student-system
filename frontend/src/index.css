@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+  background: #f4f4f4;
+}
+
+nav {
+  background: navy;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+input,
+select {
+  display: block;
+  padding: 8px;
+  margin: 10px 0;
+  width: 95%;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 8px 5px;
+  cursor: pointer;
+}
